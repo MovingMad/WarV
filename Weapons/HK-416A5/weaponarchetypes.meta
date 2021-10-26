@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>w_at_HK416A5_scope_medium</modelName>
+			<txdName>w_at_HK416A5_scope_medium</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>w_at_HK416A5_scope_medium</modelName>
+			<txdName>w_at_HK416A5_scope_medium</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>w_at_HK416A5_ar_flsh</modelName>
+			<txdName>w_at_HK416A5_ar_flsh</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>w_at_HK416A5_ar_flsh</modelName>
+			<txdName>w_at_HK416A5_ar_flsh</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>w_at_HK416A5_ar_afgrip</modelName>
+			<txdName>w_at_HK416A5_ar_afgrip</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>w_at_HK416A5_ar_afgrip</modelName>
+			<txdName>w_at_HK416A5_ar_afgrip</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>w_ar_HK416A5_mag2</modelName>
+			<txdName>w_ar_HK416A5_mag2</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>w_ar_HK416A5_mag1</modelName>
+			<txdName>w_ar_HK416A5_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>w_ar_HK416A5</modelName>
+			<txdName>w_ar_HK416A5</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500"/>
+		</Item>
+		<Item>
+			<modelName>w_ar_HK416A5</modelName>
+			<txdName>w_ar_HK416A5</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>
+
